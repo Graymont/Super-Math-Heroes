@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Ninja
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: a6e97915a8fda8642a1b73bec557f183, type: 2}
+  name: Ninja
+  id: 7
+  description: Pejuang bayangan yang mengandalkan kecepatan, ketangkasan, dan serangan
+    yang mematikan. Ninja mampu bergerak dengan cepat dan menyerang lawan sebelum
+    mereka menyadari keberadaannya.
+  health: 1200
+  damage: 45
+  defense: 2
+  portrait: {fileID: 21300000, guid: 5432d2dbe6296e1448c0b28eeff5dcb0, type: 3}
+  headTexture: {fileID: 21300000, guid: 5432d2dbe6296e1448c0b28eeff5dcb0, type: 3}
+  headPosX: -0.014
+  headPosY: 0.033
+  headRotation: 0
+  headSizeX: 1.225671
+  headSizeY: 1.3401
+  bodyTexture: {fileID: 21300000, guid: 81b5632e42671a945bcdfe561347452b, type: 3}
+  bodyPosX: 0.003
+  bodyPosY: 0.032
+  bodyRotation: 0
+  bodySizeX: -0.5059983
+  bodySizeY: 0.7402841
+  handTexture: {fileID: 21300000, guid: 3bbfacc3571c3744683c4441ba9d0157, type: 3}
+  handPosX: -0.027
+  handPosY: 0
+  handRotation: -3.74
+  handSizeX: 0.956728
+  handSizeY: 1.554441
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0

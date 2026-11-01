@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 4cad79436298fc94483cc80dff78690b, type: 2}
+  name: Orc
+  id: 4
+  description: Makhluk kuat dengan tubuh besar dan tenaga luar biasa. Meskipun mengandalkan
+    kekuatan kasar, Orc mampu memberikan serangan dahsyat yang dapat menghancurkan
+    lawannya dalam sekejap.
+  health: 2200
+  damage: 48
+  defense: 1
+  portrait: {fileID: 21300000, guid: e624ef322bb09db47adf136ba4fc2079, type: 3}
+  headTexture: {fileID: 21300000, guid: e624ef322bb09db47adf136ba4fc2079, type: 3}
+  headPosX: -0.00402
+  headPosY: -0.029
+  headRotation: 0
+  headSizeX: 1.020185
+  headSizeY: 1.079685
+  bodyTexture: {fileID: 21300000, guid: 89272646049bb8c4e80e28cdb8b28b0b, type: 3}
+  bodyPosX: -0.009
+  bodyPosY: 0.015
+  bodyRotation: 0
+  bodySizeX: 0.467429
+  bodySizeY: 0.6532022
+  handTexture: {fileID: 21300000, guid: 88d0fc66f3cd15045a4ec6375bfb5f61, type: 3}
+  handPosX: 0.096
+  handPosY: -0.084
+  handRotation: -90
+  handSizeX: 1.678892
+  handSizeY: 0.8936557
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0

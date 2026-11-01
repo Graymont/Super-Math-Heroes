@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Crusader
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 84d9c091e0378a647a26f5836c51fa6c, type: 2}
+  name: Crusader
+  id: 6
+  description: Ksatria suci yang berjuang demi keadilan dan melindungi mereka yang
+    lemah. Dengan pertahanan yang kokoh serta kekuatan seorang pejuang terlatih,
+    Crusader menjadi sosok yang sulit dikalahkan di medan pertempuran.
+  health: 2000
+  damage: 30
+  defense: 15
+  portrait: {fileID: 21300000, guid: cb8c1aa0acec2cf4ab0498605a294090, type: 3}
+  headTexture: {fileID: 21300000, guid: cb8c1aa0acec2cf4ab0498605a294090, type: 3}
+  headPosX: 0.027
+  headPosY: -0.049
+  headRotation: 0
+  headSizeX: -1.811367
+  headSizeY: 1.963817
+  bodyTexture: {fileID: 21300000, guid: 16583d118ad7a734cb8bf144dedc7d7a, type: 3}
+  bodyPosX: 0.0017
+  bodyPosY: 0.029
+  bodyRotation: 0
+  bodySizeX: 0.5848255
+  bodySizeY: 0.7459335
+  handTexture: {fileID: 21300000, guid: 6fc0661b0fd1b6944a343af54291afb4, type: 3}
+  handPosX: 0.298
+  handPosY: -0.093
+  handRotation: -90
+  handSizeX: 0.956728
+  handSizeY: 1.554441
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0

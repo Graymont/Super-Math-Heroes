@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Ronin
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 26b59d62494eac3498c2d7eb464644aa, type: 2}
+  name: Ronin
+  id: 2
+  description: Samurai tanpa tuan yang hidup berdasarkan kehormatan dan keahliannya
+    dalam menggunakan pedang. Dengan ketenangan dan teknik bertarung yang mematikan,
+    Ronin mampu mengalahkan lawan dengan serangan yang presisi.
+  health: 1250
+  damage: 44
+  defense: 3
+  portrait: {fileID: 21300000, guid: 5308bf91d1fda3541b8af20df7d6ef72, type: 3}
+  headTexture: {fileID: 21300000, guid: 5308bf91d1fda3541b8af20df7d6ef72, type: 3}
+  headPosX: -0.1327
+  headPosY: -0.041
+  headRotation: 0
+  headSizeX: 1.216405
+  headSizeY: 1.3723
+  bodyTexture: {fileID: 21300000, guid: 1c5da1ec585cca640926f425226d65aa, type: 3}
+  bodyPosX: -0.014
+  bodyPosY: 0.013
+  bodyRotation: 0
+  bodySizeX: 0.7530733
+  bodySizeY: 1.0987
+  handTexture: {fileID: 21300000, guid: 8c1255cb577964d488c593147fd1409c, type: 3}
+  handPosX: 0.144
+  handPosY: 0.089
+  handRotation: 9.53
+  handSizeX: 0.4940995
+  handSizeY: 1.52334
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0

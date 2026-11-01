@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Brave Woman
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: fb659864c74e02e4383c4ee53c7c04bf, type: 2}
+  name: Brave Woman
+  id: 10
+  description: Seorang pejuang wanita pemberani yang tidak pernah gentar menghadapi
+    bahaya. Keberanian, ketangkasan, dan tekadnya yang kuat menjadikannya petarung
+    yang mampu menghadapi musuh mana pun.
+  health: 1350
+  damage: 38
+  defense: 6
+  portrait: {fileID: 21300000, guid: 45983f93ba9873f43b9aa637d0498d21, type: 3}
+  headTexture: {fileID: 21300000, guid: 45983f93ba9873f43b9aa637d0498d21, type: 3}
+  headPosX: 0.016
+  headPosY: -0.028
+  headRotation: 0
+  headSizeX: 1.714968
+  headSizeY: 1.623577
+  bodyTexture: {fileID: 21300000, guid: a39b446b3682a4a418c70e50d7977642, type: 3}
+  bodyPosX: 0.014
+  bodyPosY: -0.003
+  bodyRotation: 0
+  bodySizeX: -0.7113011
+  bodySizeY: 0.9764864
+  handTexture: {fileID: 21300000, guid: 87bcdf7e4753c0d4b9fa0c6a66eda001, type: 3}
+  handPosX: 0.042
+  handPosY: -0.157
+  handRotation: -89.75
+  handSizeX: 0.956728
+  handSizeY: 0.3110823
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0

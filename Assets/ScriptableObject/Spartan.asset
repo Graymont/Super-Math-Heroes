@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Spartan
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 769165afe8dc5b747b9711bd134895e5, type: 2}
+  name: Spartan
+  id: 1
+  description: Prajurit perang Sparta pada masa sebelum masehi. Kekuatan fisik yang
+    kuat serta strategi perang yang cerdik membuat Spartan diakui sebagai salah satu
+    prajurit terkuat sepanjang masa kejayaan Yunani.
+  health: 1650
+  damage: 40
+  defense: 10
+  portrait: {fileID: 21300000, guid: b277c190b60c90c45bc4789f1b53bb38, type: 3}
+  headTexture: {fileID: 21300000, guid: b277c190b60c90c45bc4789f1b53bb38, type: 3}
+  headPosX: -0.022
+  headPosY: 0.09
+  headRotation: 0
+  headSizeX: 0.9
+  headSizeY: 0.83
+  bodyTexture: {fileID: 21300000, guid: 3b212d5a3d3c74246bf5791af2a9e435, type: 3}
+  bodyPosX: 0.0124
+  bodyPosY: -0.0383
+  bodyRotation: 0
+  bodySizeX: 0.56
+  bodySizeY: 1.06
+  handTexture: {fileID: 21300000, guid: b394ab3f001b8324e9dec1ce465799ab, type: 3}
+  handPosX: 0.124
+  handPosY: -0.059
+  handRotation: -90
+  handSizeX: 1.78
+  handSizeY: 1.4
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0
+  potraitSize: 320

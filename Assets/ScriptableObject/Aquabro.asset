@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a9ec05159354744812ad1eeb5f6ccf, type: 3}
+  m_Name: Aquabro
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: c03f9b8e2de283b40a9bf63bfffc1f40, type: 2}
+  name: Aquabro
+  id: 9
+  description: Pejuang tangguh yang menguasai kekuatan air dan lautan. Dengan kemampuan
+    bertarung yang lincah serta kekuatan elemen air yang dahsyat, Aquabro mampu menghadapi
+    lawan dalam berbagai situasi.
+  health: 1500
+  damage: 34
+  defense: 8
+  portrait: {fileID: 21300000, guid: 9646dbeca4435dd4f946f17c7da45746, type: 3}
+  headTexture: {fileID: 21300000, guid: 9646dbeca4435dd4f946f17c7da45746, type: 3}
+  headPosX: -0.085
+  headPosY: -0.101
+  headRotation: 0
+  headSizeX: 1.714968
+  headSizeY: 1.623577
+  bodyTexture: {fileID: 21300000, guid: cd6eeb244ea74dc4eb343edbb88787d5, type: 3}
+  bodyPosX: -0.022
+  bodyPosY: -0.034
+  bodyRotation: 0
+  bodySizeX: -0.7113011
+  bodySizeY: 0.9764864
+  handTexture: {fileID: 21300000, guid: 887a585c018921a43b7c42b0976b06d3, type: 3}
+  handPosX: -0.048
+  handPosY: 0.046
+  handRotation: 0
+  handSizeX: -0.6153383
+  handSizeY: 1.195459
+  useHands: 1
+  leftFeetHeight: 0
+  rightFeetHeight: 0
