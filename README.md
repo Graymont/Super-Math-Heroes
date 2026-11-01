@@ -1,4 +1,5 @@
 <img width="1935" height="1402" alt="Game Title Clear" src="https://github.com/user-attachments/assets/9f88586e-6238-473e-b59b-6ebb642bd1fc" />
+
 **ABOUT**
 
 Multiplication is a fundamental mathematics topic that every elementary school 
