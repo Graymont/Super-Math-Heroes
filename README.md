@@ -1,0 +1,1 @@
+[Skripsi Andrew Immanuel 15220023 15.8A.03 FINAL PDF 10.19.2026 9.58 PM.pdf](https://github.com/user-attachments/files/34229979/Skripsi.Andrew.Immanuel.15220023.15.8A.03.FINAL.PDF.10.19.2026.9.58.PM.pdf)
